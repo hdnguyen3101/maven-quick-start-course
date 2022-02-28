@@ -1,4 +1,4 @@
-package hdnguyen3101.maven.training;
+package clinic.programmming.training;
 
 public class Application {
     
